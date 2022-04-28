@@ -1,5 +1,11 @@
 # @emotion/serialize
 
+## 1.0.4
+
+### Patch Changes
+
+- [#2727](https://github.com/emotion-js/emotion/pull/2727) [`26e4e3e8`](https://github.com/emotion-js/emotion/commit/26e4e3e8b68479f0e3cb8fbec723da47afd6ac98) Thanks [@srmagura](https://github.com/srmagura)! - Changed the error message "Component selectors can only be used in conjunction with @emotion/babel-plugin" to reference the new SWC Emotion plugin which will support component selectors soon.
+
 ## 1.0.3
 
 ### Patch Changes
